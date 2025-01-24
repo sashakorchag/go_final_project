@@ -4,7 +4,7 @@ import (
 	"net/http"
 	"time"
 
-	"go_final_project/nextdate"
+	"go_final_project/utils"
 )
 
 // HandleDate обрабатывает GET-запрос для следующей даты
